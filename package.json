@@ -1,0 +1,34 @@
+{
+  "name": "alimente",
+  "version": "1.0.1",
+  "description": "",
+  "keywords": [
+    "browser",
+    "module",
+    "loader",
+    "javascript"
+  ],
+  "homepage": "https://github.com/Devrkela/alimente#readme",
+  "bugs": {
+    "url": "https://github.com/Devrkela/alimente/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devrkela/alimente.git"
+  },
+  "license": "MIT",
+  "author": "Erkela",
+  "type": "module",
+  "main": "dist/alimente-iife.js",
+  "browser": "dist/alimente-iife.js",
+  "files": [
+    "dist/*"
+  ],
+  "scripts": {
+    "build": "node rollup.js"
+  },
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
+    "rollup": "^4.57.1"
+  }
+}
