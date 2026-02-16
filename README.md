@@ -4,7 +4,7 @@ Ascension est un framework Front-end javascript. Il contient plusieurs fonctions
 
 ## Documentation
 
-Vous pouvez en lire plus en regardant la documentation.
+Vous pouvez en lire plus en regardant la [documentation](https://devrkela.github.io/reference/).
 
 ## Installer
 
